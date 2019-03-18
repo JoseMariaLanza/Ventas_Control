@@ -1,0 +1,4 @@
+﻿Son los deudores que tienen una alta improbabilidad de asumir el pago de sus deudas.
+Alto nivel de endeudamiento.
+Insuficiente flujo de fondos.
+Deudas de hasta 1 año.

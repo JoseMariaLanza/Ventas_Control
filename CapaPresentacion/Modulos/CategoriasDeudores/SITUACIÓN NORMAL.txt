@@ -1,0 +1,6 @@
+﻿Son los clientes que pueden cumplir con sus compromisos financieros, y con estas características:
+
+Situación financiera líquida.
+Bajo endeudamiento.
+Buena capacidad de pago.
+Con atrasos menores a 31 días en los pagos de créditos y obligaciones comerciales.

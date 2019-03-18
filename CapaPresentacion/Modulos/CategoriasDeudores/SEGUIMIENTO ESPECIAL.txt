@@ -1,0 +1,10 @@
+﻿Esta categoría admite dos tipos de deudores: en observación y en negociación.
+Deudores en observación
+Son deudores con capacidad de pago de deudas, pero que presentan algunos elementos que podrían afectar la capacidad de pago:
+
+Puede tener cambios de flujo de dinero por el sector en el que se desempeña.
+Atrasos de hasta 90 días en el pago de créditos.
+Pertenece a un sector cuyos ingresos pueden bajar en determinadas situaciones.
+Refinanciación de créditos de hasta $2.000.000.
+Deudores en negociación
+Deudores que refinancian la deuda a los 60 días de incurrir en mora.

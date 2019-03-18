@@ -1,0 +1,5 @@
+﻿Clientes o deudores con deudas incobrables.
+Mala situación financiera.
+Suspensión de pagos.
+Atrasos de más de 1 año.
+Capaz de actos fraudulentos.

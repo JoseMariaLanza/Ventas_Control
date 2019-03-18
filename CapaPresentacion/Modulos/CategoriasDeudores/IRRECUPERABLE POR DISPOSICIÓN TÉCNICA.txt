@@ -1,0 +1,1 @@
+﻿Son los deudores con situación irregular con atrasos superiores a los 180 días.
