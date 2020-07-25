@@ -3,3 +3,4 @@ This is a system that can be used by anyone who needs help in their finances (of
 
 
 This project is currently under development
+Although paused for the moment
